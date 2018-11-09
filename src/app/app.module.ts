@@ -2,6 +2,7 @@ import { NgModule, NO_ERRORS_SCHEMA } from "@angular/core";
 import { NativeScriptModule } from "nativescript-angular/nativescript.module";
 import { AppRoutingModule } from "./app.routing";
 import { AppComponent } from "./app.component";
+import { NativeScriptFormsModule } from "nativescript-angular/forms";
 import { Juego } from "./juego/juego";
 
 // Uncomment and add to NgModule imports if you need to use two-way binding
@@ -16,7 +17,8 @@ import { Juego } from "./juego/juego";
     ],
     imports: [
         NativeScriptModule,
-        AppRoutingModule
+        AppRoutingModule,
+        NativeScriptFormsModule
     ],
     declarations: [
         AppComponent,

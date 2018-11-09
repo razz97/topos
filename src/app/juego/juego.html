@@ -1,3 +1,5 @@
 <StackLayout>
-    <Image src="//res:{{estados[i]}}.png" *ngFor="let estado for estados; index as i"></Image>
+  <WrapLayout>
+    <Image src="res://{{estado}}" *ngFor="let estado of estados; index as i" width="33%" ></Image>
+  </WrapLayout>
 </StackLayout>
