@@ -1,5 +1,5 @@
 {
-	"time": "Fri Nov 09 2018 17:28:14 GMT+0100 (GMT+01:00)",
+	"time": "Sat Nov 10 2018 20:44:34 GMT+0100 (Central European Standard Time)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
@@ -7,19 +7,19 @@
 	"projectFileHash": "a89052ff83376e8271c08baf2034f31b97706171afc721e08f0181ccc7738937",
 	"changesRequireBuildTime": "Fri Oct 26 2018 16:47:52 GMT+0200 (Hora de verano romance)",
 	"appFilesHashes": {
-		"/home/alex/Nativescript/topos/src/app/app.component.html": "611325f92aae874130d34a7621cbbd3eabd48aac",
-		"/home/alex/Nativescript/topos/src/app/app.component.js": "dede6ac16970c718b7c1ed4944ab8fbc6b10164a",
-		"/home/alex/Nativescript/topos/src/app/app.component.ts": "6f32091fe48b1ec7bcb22035237249748b41a9e6",
-		"/home/alex/Nativescript/topos/src/app/app.module.ts": "41944a13e6d29d4e5ba8a882b4be03ee35ec3969",
-		"/home/alex/Nativescript/topos/src/app/app.module.js": "48db18de5c951c98e44544fc60852ea3c6d84967",
-		"/home/alex/Nativescript/topos/src/app/app.routing.js": "4ae227ed156f3630d72ea7388bfab9c0a944d544",
-		"/home/alex/Nativescript/topos/src/app/app.routing.ts": "a752ad6a3a25349d1dcfca23e88826dab1119ce4",
-		"/home/alex/Nativescript/topos/src/app/juego/juego.html": "0dede9c22200c9c5437dc6c2973e25974995eee2",
-		"/home/alex/Nativescript/topos/src/app/juego/juego.js": "d08b83530242e77f5f20f5a55cab8a5bfb53c8a1",
-		"/home/alex/Nativescript/topos/src/main.js": "fa6ba2c09a97be4b4b3df5980c3f54c8030c3e3d",
-		"/home/alex/Nativescript/topos/src/app/juego/juego.ts": "f608dab5b6b23a2a15066925e8ba072c46dfef44",
-		"/home/alex/Nativescript/topos/src/app.css": "24f81ff5c41798f4671899fdc9d85993fbf27059",
-		"/home/alex/Nativescript/topos/src/main.ts": "f91f1f60268600613f58424b2be0dc632a51a3d9",
-		"/home/alex/Nativescript/topos/src/package.json": "62db8f086c6c89608370f1d52d8bcf671ce139db"
+		"/home/alex/Documents/Nativescript/topos/src/app/app.component.js": "dede6ac16970c718b7c1ed4944ab8fbc6b10164a",
+		"/home/alex/Documents/Nativescript/topos/src/app/app.component.html": "611325f92aae874130d34a7621cbbd3eabd48aac",
+		"/home/alex/Documents/Nativescript/topos/src/app/app.component.ts": "6f32091fe48b1ec7bcb22035237249748b41a9e6",
+		"/home/alex/Documents/Nativescript/topos/src/app/app.module.js": "48db18de5c951c98e44544fc60852ea3c6d84967",
+		"/home/alex/Documents/Nativescript/topos/src/app/app.module.ts": "41944a13e6d29d4e5ba8a882b4be03ee35ec3969",
+		"/home/alex/Documents/Nativescript/topos/src/app/app.routing.js": "4ae227ed156f3630d72ea7388bfab9c0a944d544",
+		"/home/alex/Documents/Nativescript/topos/src/app/juego/juego.html": "0dede9c22200c9c5437dc6c2973e25974995eee2",
+		"/home/alex/Documents/Nativescript/topos/src/app/app.routing.ts": "a752ad6a3a25349d1dcfca23e88826dab1119ce4",
+		"/home/alex/Documents/Nativescript/topos/src/app/juego/juego.js": "6e09728ad65149876b09b6e90d2a52901f4c10c6",
+		"/home/alex/Documents/Nativescript/topos/src/app/juego/juego.ts": "c39c07b18b0389dfaf88ab3d2ac9d12f737c43b9",
+		"/home/alex/Documents/Nativescript/topos/src/app.css": "24f81ff5c41798f4671899fdc9d85993fbf27059",
+		"/home/alex/Documents/Nativescript/topos/src/main.js": "fa6ba2c09a97be4b4b3df5980c3f54c8030c3e3d",
+		"/home/alex/Documents/Nativescript/topos/src/main.ts": "f91f1f60268600613f58424b2be0dc632a51a3d9",
+		"/home/alex/Documents/Nativescript/topos/src/package.json": "62db8f086c6c89608370f1d52d8bcf671ce139db"
 	}
 }

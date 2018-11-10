@@ -7,15 +7,10 @@ import { Component, OnInit } from "@angular/core";
 })
 export class Juego implements OnInit {
 
-
-    test = "out"
-    estados = ["out","out","out","out","out","out","out","out","out"];
-    // estados = Array(9).map(() => "out");
+    estados = Array(9).fill("out")
 
     ngOnInit() {
-
-       // this.
-      //estados[1] = "out";
+        
     }
 
 
