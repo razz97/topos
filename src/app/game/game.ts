@@ -49,7 +49,7 @@ export class Game implements OnInit {
             this.moles[pos] = this.MOLE_IN;
         } else if (--this.lifes == 0) this.onGameFinished();
     }
-    // Clear the interval and redirect to results when the game ends.
+    // Clear the interval, set final values and redirect to results when the game ends.
     onGameFinished() {
         clearInterval(this.timer);
         Game.finalLifes = this.lifes;

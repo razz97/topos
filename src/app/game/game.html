@@ -1,9 +1,11 @@
 <WrapLayout class="maxSize" style="background-color: green">
-  <Image src="res://clock" width="16.7%" class="labelGame"></Image>
-  <label text="{{timeRemaining}}" class="labelGame" width="16.7%"></label>
-  <Image src="res://trophy" width="16.7%" class="labelGame"></Image>
-  <label text="{{score}}" class="labelGame" width="16.7%"></label>
-  <Image src="res://heart" width="16.7%" class="labelGame"></Image>
-  <label text="{{lifes}}" class="labelGame" width="16.7%"></label>
+  <StackLayout orientation="horizontal" class="height-40">
+    <Image src="res://clock"        ></Image>
+    <label text="{{timeRemaining}}" ></label>
+    <Image src="res://trophy"       ></Image>
+    <label text="{{score}}"         ></label>
+    <Image src="res://heart"         ></Image>
+    <label text="{{lifes}}"         ></label>
+  </StackLayout>
   <Image src="res://{{mole}}" *ngFor="let mole of moles; index as i" width="33%" (tap)="tapMole(i)" class="height-20"></Image>
 </WrapLayout>
