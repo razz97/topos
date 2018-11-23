@@ -1,0 +1,7 @@
+<WrapLayout class="maxSize">
+  <label text="{{timeRemaining}}" class="center" width="30%"></label>
+  <label text="{{score}}" class="center" width="30%"></label>
+  <Image src="res://heart" width="9%"></Image>
+  <label text="{{lifes}}" class="center" width="30%"></label>
+  <Image src="res://{{mole}}" *ngFor="let mole of moles; index as i" width="33%" (tap)="tapMole(i)" class="height-20"></Image>
+</WrapLayout>

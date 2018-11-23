@@ -1,1 +1,1 @@
-C:\Users\alu2017445\Documents\NativeScript\topos\platforms\android\app/src/main/assets/app
+/home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app

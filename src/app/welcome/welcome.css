@@ -1,0 +1,21 @@
+.appTitle {
+    font-size: 30px;
+    margin-top: 10%;
+    font-family: "title";
+    color: white;
+}
+
+.btnStart {
+    font-size: 50px;
+    font-family: "Bubblegum";
+    color: gray;
+    width: 60%;
+    margin-top: 10%;
+    background-color: lightblue;
+}
+
+.background {
+    background-image: url("res://cartoonsky");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}

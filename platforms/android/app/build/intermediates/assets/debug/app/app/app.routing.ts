@@ -2,13 +2,15 @@ import { NgModule } from "@angular/core";
 import { NativeScriptRouterModule } from "nativescript-angular/router";
 import { Routes } from "@angular/router";
 
-import { ItemsComponent } from "./item/items.component";
-import { ItemDetailComponent } from "./item/item-detail.component";
+import { Juego } from "./juego/juego";
+import { Bienvenida } from "~/app/bienvenida/bienvenida";
+import { Resultado } from "~/app/resultado/resultado";
 
 const routes: Routes = [
-    { path: "", redirectTo: "/items", pathMatch: "full" },
-    { path: "items", component: ItemsComponent },
-    { path: "item/:id", component: ItemDetailComponent },
+    { path: "", redirectTo: "/bienvenida", pathMatch: "full" },
+    { path: "juego", component: Juego },
+    { path: "bienvenida", component: Bienvenida },
+    { path: "resultado", component: Resultado },
 ];
 
 @NgModule({
