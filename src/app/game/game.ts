@@ -1,6 +1,7 @@
 import { Component, OnInit } from "@angular/core";
 import { setInterval, clearInterval } from "tns-core-modules/timer";
 import { Router } from "@angular/router";
+import { Page } from "ui/page";
 
 
 @Component({
@@ -10,17 +11,19 @@ import { Router } from "@angular/router";
     styleUrls: ["game.css"]
 })
 export class Game implements OnInit {
+
     // Get a router for navigating to results when the game finishes.
-    public constructor(private router: Router) {}
+    // Also hides the action bar
+    public constructor(private router: Router, page:Page) { page.actionBarHidden = true;}
     // Static variables can be accesed from other views.
-    static finalLifes = 10;
-    static finalScore = 0;
+    static finalLifes;
+    static finalScore;
     // Constants for the mole's images.
     MOLE_OUT = "out";
     MOLE_IN = "in";
     // Variables for controlling the gameplay.
     moles = Array(9).fill(this.MOLE_IN);
-    timeRemaining = 10;
+    timeRemaining = 30;
     timer;
     lifes = 10;
     score = 0;

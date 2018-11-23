@@ -227,11 +227,14 @@
 /home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/tns_modules/nativescript-angular/common/utils.js
 /home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/tns_modules/nativescript-angular/common/detached-loader.js
 /home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/tns_modules/nativescript-angular/value-accessors/base-value-accessor.js
-/home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/app/bienvenida/bienvenida.js
 /home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/app/app.routing.js
-/home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/app/juego/juego.js
+/home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/app/welcome/welcome.js
+/home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/app/welcome/bienvenida.js
 /home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/app/app.component.js
 /home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/app/app.module.js
-/home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/app/resultado/resultado.js
+/home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/app/game/juego.js
+/home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/app/game/game.js
+/home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/app/result/resultado.js
+/home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/app/result/result.js
 /home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/app/data.js
 /home/alex/Documents/Nativescript/topos/platforms/android/app/src/main/assets/app/main.js

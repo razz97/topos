@@ -1,5 +1,6 @@
 import { Component, OnInit } from "@angular/core";
 import { Game } from "~/app/game/game";
+import { Page } from "ui/page";
 
 
 @Component({
@@ -8,7 +9,7 @@ import { Game } from "~/app/game/game";
     templateUrl: "result.html",
 })
 export class Result implements OnInit {
-
+    public constructor(page:Page) { page.actionBarHidden = true;}
     score = Game.finalScore;
     msg;
 

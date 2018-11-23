@@ -1,0 +1,17 @@
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.height-20 {
+    height:20%;
+}
+
+.maxSize {
+    height:100%;
+    width: 100%;
+}

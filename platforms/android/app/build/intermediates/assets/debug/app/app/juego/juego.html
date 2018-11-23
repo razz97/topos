@@ -1,8 +1,0 @@
-<StackLayout style="width:100%; height: 100%;">
-  <WrapLayout>
-    <label text="{{timeRemaining}}" style="text-align: center" width="32%"></label>
-    <label text="{{score}}" style="text-align: center" width="32%"></label>
-    <label text="{{lifes}}" style="text-align: center" width="32%"></label>
-    <Image src="res://{{topo}}" *ngFor="let topo of topos; index as i" width="33%" (tap)="tapTopo(i)" style="height: 20%;"></Image>
-  </WrapLayout>
-</StackLayout>

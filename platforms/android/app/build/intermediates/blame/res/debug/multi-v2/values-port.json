@@ -4,7 +4,7 @@
             "outputFile": "/home/alex/Documents/Nativescript/topos/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/a806115c6aed828c7fd4d546558364e0/res/values-port/values-port.xml",
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/41de65a3537c893ac93aed9e8c76053a/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
